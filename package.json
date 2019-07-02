@@ -1,0 +1,22 @@
+{
+  "name": "mock_api",
+  "version": "1.0.0",
+  "description": "mocking api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negi524/mock_api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "negi524",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/negi524/mock_api/issues"
+  },
+  "homepage": "https://github.com/negi524/mock_api#readme"
+}
