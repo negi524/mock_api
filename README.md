@@ -7,5 +7,8 @@
 
 ### json-server
 
+```
+$ npm run server db.json
+```
 
 ### http-server
