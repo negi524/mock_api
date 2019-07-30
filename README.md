@@ -7,8 +7,14 @@
 
 ### json-server
 
+db.jsonのデータを元にapiを起動する時
 ```
 $ npm run server db.json
+```
+
+routesのマッピングを行いたい時
+```
+$ npm run server db.json -- --routes routes.json
 ```
 
 ### http-server
