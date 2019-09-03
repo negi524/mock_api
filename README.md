@@ -35,4 +35,9 @@ $ npm run server db.json -- --routes routes.json
 $ npm run server db.json -- --port 8080
 ```
 
+#### db.json の作成場所
+
+`npm run server`の起動引数に指定できれば良いので、どこに作成しても良いです。  
+git 管理外のディレクトリ`tmp`を作成してあるので、そこに格納することをお勧めします。
+
 ### http-server
