@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/negi524/mock_api#readme",
   "dependencies": {
-    "http-server": "^0.11.1",
-    "json-server": "^0.15.0"
+    "http-server": "^0.12.3",
+    "json-server": "^0.15.1"
   }
 }
